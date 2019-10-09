@@ -7,4 +7,4 @@ class SampleTest(TestCase):
                 self.assertEqual(1, 1)
     
         #def test_alway_fail(self):
-                 self.assertEqual(2, 1)
+        #        self.assertEqual(2, 1)
